@@ -11,7 +11,7 @@ title: __( 'Book' )
 
 <!-- wp:code -->
 
-<!-- wp:code-language -->
+<!-- wp:code-language { "language": "ES5" }-->
 
 ### ES5 
 
@@ -33,7 +33,7 @@ transforms: {
 
 <!-- /wp:code-language -->
 
-<!-- wp:code-language -->
+<!-- wp:code-language { "language": "ESNext" } -->
 
 ### ESNext
 
