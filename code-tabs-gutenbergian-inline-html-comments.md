@@ -9,9 +9,9 @@ title: __( 'Book' )
 
 ## Code block with both ES5 and ESNext dialects
 
-<!-- handbook:code -->
+<!-- wp:code -->
 
-<!-- handbook:code-language -->
+<!-- wp:code-language -->
 
 ### ES5 
 
@@ -31,9 +31,9 @@ transforms: {
 },
 ```
 
-<!-- /handbook:code-language -->
+<!-- /wp:code-language -->
 
-<!-- handbook:code-language -->
+<!-- wp:code-language -->
 
 ### ESNext
 
@@ -53,7 +53,7 @@ transforms: {
 },
 ```
 
-<!-- /handbook:code-language -->
+<!-- /wp:code-language -->
 
 
-<!-- /handbook:code -->
+<!-- /wp:code -->
